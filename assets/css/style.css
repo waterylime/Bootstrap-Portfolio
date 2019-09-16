@@ -36,22 +36,29 @@ header {
     font-size: 50px;
     /* padding-right: 250px; */
 }
-
-
-<!--start of index css>
-.container {
-	padding-top: 30px;
-	width: 960px;
-	background-color: white;
-    margin: 0px;
-    
-
-}
-.am{
+.title{
     color: #4aaaa5;
     font-size: 35px;
     float: left;
 }
+.container {
+	padding-top: 30px;
+	width: 960px;
+	/* background-color: white; */
+    /* margin: 0px; */
+    /* padding-top: 30px; */
+	width: 960px;
+	/* background-color: white; */
+    /* margin: 0px; */
+    /* width: auto; */
+	background-color: white;
+    margin: 45px;
+    float: left;
+    margin-left: 85px;
+}
+<!--start of index css>
+
+
 img{
     float: left;
 }
@@ -64,16 +71,7 @@ img{
 
 
 <--! Start css for contact>
-.container1 {
-	padding-top: 30px;
-	width: 960px;
-	background-color: white;
-    /* margin: 0px; */
-    width: auto;
-	background-color: white;
-    margin: 45px;
-    float: left;
-}
+
 .form-group {
 	width: 960px;
 	float: left;
@@ -106,3 +104,6 @@ button {
 	/* padding-left: 550px; */
 	/* padding-top: 25px; */
 }
+
+
+<--! :start css for portfolio>
