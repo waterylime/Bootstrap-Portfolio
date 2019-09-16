@@ -1,0 +1,108 @@
+body {
+	background-image: url("../images/lilypads.png");
+	background-size: cover;
+    background-attachment: fixed;
+    
+}
+.containerN{
+    /* color: gray ; */
+    background-color: white;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    background-size: 50px;
+    height: 75px;
+    /* padding-left: 420px; */
+    /* display: inline-block; */
+}
+.nav{
+    color: gray !important;
+    background-color: white;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    background-size: 50px;
+    height: 75px; 
+    scroll-padding-left: 300px;
+
+}
+header {
+	float: left;
+	height: 75px;
+	background-color: #4aaaa5;
+	background-size: 50px;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    /* padding-right: 250px; */
+}
+
+
+<!--start of index css>
+.container {
+	padding-top: 30px;
+	width: 960px;
+	background-color: white;
+    margin: 0px;
+    
+
+}
+.am{
+    color: #4aaaa5;
+    font-size: 35px;
+    float: left;
+}
+img{
+    float: left;
+}
+.info{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+
+
+<--! Start css for contact>
+.container1 {
+	padding-top: 30px;
+	width: 960px;
+	background-color: white;
+    /* margin: 0px; */
+    width: auto;
+	background-color: white;
+    margin: 45px;
+    float: left;
+}
+.form-group {
+	width: 960px;
+	float: left;
+}
+button {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.down {
+	display: block;
+	font-size: 25px;
+	padding-top: 25px;
+}
+
+.size {
+	height: 250px;
+	width: 880px;
+	margin-bottom: 25px;
+}
+
+.test {
+	height: 25px;
+	width: 880px;
+}
+
+.button {
+	height: 35px;
+	width: 60px;
+	/* padding-left: 550px; */
+	/* padding-top: 25px; */
+}
